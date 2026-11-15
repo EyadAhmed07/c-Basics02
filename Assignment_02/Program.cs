@@ -20,21 +20,21 @@ namespace Assignment_02
             //Console.WriteLine(object.ReferenceEquals(str1,str2));
             #endregion
 
+                
             #region Question03
             //StringBuilder sb = new StringBuilder();
             //sb.Append("Book List");
             //sb.Append("-Updated");
             //Console.WriteLine(sb);
-
             #endregion
 
 
             #region Question04
             //sb.Replace("Book List", "Library");
             //Console.WriteLine(sb);
-
             #endregion
 
+                
             #region Question05
             //string title = "Clean code";
             //int pages = 464;
@@ -122,7 +122,6 @@ namespace Assignment_02
             //    i++;
 
             //}while(i<3);
-
             #endregion
 
 
@@ -155,6 +154,7 @@ namespace Assignment_02
             //}
             #endregion
 
+                
             #region Question18
             PrintFirstBook(books);
             #endregion
@@ -166,7 +166,6 @@ namespace Assignment_02
                 return ;
             else
                 Console.WriteLine($"First book:{arr[0]}");
-
         }
     }
 }
